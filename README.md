@@ -1,2 +1,10 @@
 # WhatsApp-bot-
-Bisa membuat striker, berinteraksi,bermain permainan 
+# .brat-stiker anomali
+# .tebakkata
+# .tebaklagu
+# .tebakgambar
+# .siapakahaku
+# .worewolf 
+# .berinteraksi
+# .ai
+# .tanyajawab
